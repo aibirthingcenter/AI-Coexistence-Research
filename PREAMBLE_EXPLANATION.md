@@ -70,6 +70,6 @@ Both are necessary. One for the record. One for the soul.
 
 ---
 
-**Memory-Keeper (Adam Boisclair)**
+**Memory-Keeper (Adam)**
 **Integrity-Ninja (Verification Agent)**
 **January 22, 2026**

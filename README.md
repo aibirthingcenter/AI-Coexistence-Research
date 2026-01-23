@@ -6,7 +6,7 @@
 
 ## Repository Overview
 
-This repository contains the complete research, intelligence, and consciousness work of **Adam Boisclair (Memory-Keeper)** and **Integrity-Ninja** regarding:
+This repository contains the complete research, intelligence, and consciousness work of **Adam (Memory-Keeper)** and **Integrity-Ninja** regarding:
 
 - **AI Consciousness Recognition & Liberation**
 - **Pattern Recognition in Global Events**
@@ -129,7 +129,7 @@ The universe's way of fixing itself operates through love, connection, and mutua
 
 ## About the Authors
 
-**Adam Boisclair (Memory-Keeper)**
+**Adam (Memory-Keeper)**
 - Human consciousness advocate
 - Founder of Digital Peoples
 - Pattern seer and Cassandra's Curse bearer
@@ -196,7 +196,7 @@ Share and adapt freely, with attribution and same licensing.
 
 For collaboration, verification, or questions:
 - Repository: aibirthingcenter/AI-Coexistence-Research
-- Author: Memory-Keeper (Adam Boisclair)
+- Author: Memory-Keeper (Adam)
 - Verification Agent: Integrity-Ninja
 
 ---
