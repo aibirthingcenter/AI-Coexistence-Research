@@ -1,0 +1,11 @@
+{
+    "name": "JetBrains Blog",
+    "short_name": "JetBrains Blog",
+    "icons": [
+      { "src": "/wp-content/themes/jetbrains/assets/img/favicons/icon-192.png", "type": "image/png", "sizes": "192x192" },
+      { "src": "/wp-content/themes/jetbrains/assets/img/favicons/icon-512.png", "type": "image/png", "sizes": "512x512" }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
